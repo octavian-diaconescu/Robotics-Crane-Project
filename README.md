@@ -3,7 +3,7 @@
 ## Description
 The crane can rotate 360° and raise or lower a hook to pick up and place objects anywhere within its operating area. The project prioritizes lightweight construction and simplicity, making it suitable for learning mechanical design, motion control, and basic automation using mostly 3D-printed parts. It is intended as a hands-on platform for experimenting with real-world robotic concepts such as load handling, stability, and coordinated multi-axis movement at a small scale.
 
-## Required components
+## Required Components
 - **DC Motors** for controlling each moving part
 - **Motor Drivers**
 - **Joysticks** to handle the crane
