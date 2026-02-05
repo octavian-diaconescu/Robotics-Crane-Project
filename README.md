@@ -60,13 +60,19 @@ The easiest part was writing the code for the motors, as we used a pre-existing 
 We feel like this project, while not being technologically complex, impresses through its aesthetic and solid functionality. It's not perfect, but we had a great deal of fun designing it from the ground up, feeling like true engineers by coming up with creative ideas, adapting on the fly and getting better at it and improving the design through trial and error. As the last blueprint for the Robotics class, this is our _love letter_ and _passion project_.
 
 ## How to Control the Crane Assembly
->These controlls are viable for both Xbox and Playstation controllers.
+>These controls are viable for both Xbox and Playstation controllers.
 <img width="1920" height="1080" alt="crane_project_controlls" src="https://github.com/user-attachments/assets/1c3d89e2-ad64-4215-a734-b98ec6b66851" />
 
 
 ## Pin Map
-TODO
->table placeholder
+
+|Motor|ULN2003 Pins|ESP32 GIOP Pins|
+|-----|------------|---------------|
+|Motor 1|IN1, IN2, IN3, IN4|25, 26, 27, 14|
+|Motor 2|IN1, IN2, IN3, IN4|32, 33, 22, 23|
+|Motor 3|IN1, IN2, IN3, IN4|18, 19, 21, 4|
+|Motor 4|IN1, IN2, IN3, IN4|16, 17, 5, 13|
+
 
 ## Pictures and Demo
 TODO
@@ -74,6 +80,6 @@ TODO
 
 ## Credits
 >[!NOTE]
->This project took roughly [insert hours] hours to model, [insert hours] to print and [insert hours] to assemble and test.
+>This project took roughly 15 hours to model, 30 hours to print and 16 hours to assemble and test.
 
-This project will be made in collaboration with [octavian-diaconescu](https://github.com/octavian-diaconescu).
+This project will be made in collaboration with [octavian-diaconescu](https://github.com/octavian-diaconescu) and [Sed4u](https://github.com/Sed4u).
