@@ -49,7 +49,7 @@ We chose stepper motors in spite of their slow speeds, because we liked their in
 <img width="822" height="1111" alt="image" src="https://github.com/user-attachments/assets/8d771bbf-c385-48c3-99d9-9569469139f5" />
 
 
-What made this project really challenging was the fact that we didn't settle for schematics available online, but instead modeled the crane ourselves from the ground up. We chose the specific positions of the motors, the movement of the trolley and the size of the _"counter weight"_, using a real crane as an inspiration and adapting things to our needs on the fly. After we figured out how many motors we needed, and their respective uses, we had to come up with creatives ways to incorporate them into a polished 3D body. First, we focused on the trolley functionality: how it would move, how it should look and how it would fit onto the crane's arm. We settled for a horizontal pulley system with a closed loop of nylon(yes, the fishing kind) with two steppers moving it on the X-axis by spinning spools of nylon. This approach isn't perfect, as we lose some of the already low speeds to the low levels of friction between the spools of nylon and the wheels we printed for the steppers. We couldn't come up with a better way to increase friction between the two without modifying the scale of the project. At the same time we designed and printed the arm, which went through about two iterations or so before everything fitted as we wanted it. **Tolerances and plastic warping _are_ real and they _will_ hurt us :c.**
+What made this project really challenging was the fact that we didn't settle for schematics available online, but instead modeled the crane ourselves from the ground up. We chose the specific positions of the motors, the movement of the trolley and the size of the _"counter weight"_, using a real crane as an inspiration and adapting things to our needs on the fly. After we figured out how many motors we needed, and their respective uses, we had to come up with creatives ways to incorporate them into a polished 3D body. First, we focused on the trolley functionality: how it would move, how it should look and how it would fit onto the crane's arm. We settled for a horizontal pulley system with a closed loop of nylon(yes, the fishing kind) with two steppers moving it on the X-axis by spinning spools of nylon. This approach isn't perfect, as we lose some of the already low speeds to the low levels of friction between the spools of nylon and the wheels we printed for the steppers. *We couldn't come up with a better way to increase friction between the two without modifying the scale of the project.* At the same time, we designed and printed the arm, which went through about two iterations or so before everything fitted as we wanted it. **Tolerances and plastic warping _are_ real and they _will_ hurt us :c.**
 
 <img width="1172" height="894" alt="image" src="https://github.com/user-attachments/assets/d8656b1b-f5a8-4541-bdcf-9aa73a258ba9" />
 
@@ -81,6 +81,7 @@ We feel like this project, while not being technologically complex, impresses th
 
 
 ## Pictures and Demo
+ [Youtube Link](https://youtu.be/Kfjp9-Fd0ek)
 <details>
   <Summary>
   Pictures  
@@ -94,6 +95,7 @@ We feel like this project, while not being technologically complex, impresses th
 </details>
 
 ![](./docs/crane.gif)
+
 
 ## Credits
 >[!NOTE]
